@@ -4,6 +4,8 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KentaroK1mura&theme=onedark&show_icons=true" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KentaroK1mura&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on ...  
   Web system development and digital transformation (DX)
 
