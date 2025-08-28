@@ -12,8 +12,6 @@
   />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KentaroK1mura&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working on ...  
   Web system development and digital transformation (DX)
 
